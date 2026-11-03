@@ -1,0 +1,21 @@
+birdlock's Rust code is MIT, copyright (c) 2026 macncrash. See LICENSE.
+
+The site lists under data/ are other people's work and stay under their own terms.
+
+data/wmn-data.json
+  WhatsMyName, by Micah Hoffman and the other authors named in the file.
+  Creative Commons Attribution-ShareAlike 4.0 International.
+  https://github.com/WebBreacher/WhatsMyName
+  The file's own "license" field is the canonical notice.
+
+data/sherlock.json
+  Sherlock Project, MIT.
+  Copyright (c) 2019 Sherlock Project
+  https://github.com/sherlock-project/sherlock
+  A copy of the MIT terms is in the Sherlock repository's LICENSE.
+
+data/email-data.json
+  Taken unchanged from Blackbird, which is licensed under GPL-3.0.
+  Copyright Lucas Antoniaci and contributors.
+  https://github.com/p1ngul1n0/blackbird
+  This file is data, not part of the MIT-licensed Rust program.

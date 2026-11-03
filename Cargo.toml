@@ -1,0 +1,18 @@
+[package]
+name = "birdlock"
+version = "0.1.0"
+edition = "2021"
+description = "Username and email account search across WhatsMyName and Sherlock site lists"
+license = "MIT"
+authors = ["macncrash"]
+publish = false
+
+[[bin]]
+name = "birdlock"
+path = "src/main.rs"
+
+[lib]
+name = "birdlock"
+path = "src/lib.rs"
+
+[dependencies]
